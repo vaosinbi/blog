@@ -1,1 +1,1 @@
-Sitemap: https://osin.dev/blog/sitemap.xml
+Sitemap: https://osin.dev/sitemap.xml
